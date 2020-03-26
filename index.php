@@ -1,3 +1,3 @@
 <?php 
-	echo "Luiz o caralho paraaaaa";
+	echo "Hello Word!";
 ?>
